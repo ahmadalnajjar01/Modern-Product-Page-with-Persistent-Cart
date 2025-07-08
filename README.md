@@ -22,10 +22,10 @@ A responsive e-commerce product page with persistent shopping cart functionality
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/modern-product-page.git
+git clone https://github.com/your-username/modern-product-page-with-Persistent-Cart
 
 # Navigate to project
-cd modern-product-page
+cd Modern-Product-Page-with-Persistent-Cart
 
 # Install dependencies
 npm install
@@ -69,9 +69,7 @@ This project uses the [FakeStore API](https://fakestoreapi.com/) to fetch produc
 4. Push to the branch
 5. Open a Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License.
 
 ---
 
